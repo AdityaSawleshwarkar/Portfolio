@@ -1,0 +1,45 @@
+.top {
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 45px;
+    font-family: 'Saira Condensed', sans-serif;
+    width: 80vw;
+}
+
+.name{
+    text-align: left;
+    padding-left: 50px;
+    font-size: 45px;
+    font-family: 'Saira Condensed', sans-serif;
+    width: 80vw;
+
+}
+
+.body{
+    background-color: rgb(87, 249, 243);
+}
+
+.info{
+
+    align-content: center;
+    font-size: 40px;
+    font-family: "Agency FB";
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.mit{
+    width: 500px;
+    padding-top: 75px;    
+}
+
+.img{
+    display: flex;
+    justify-content:right;
+    background-color: azure;
+    width: 950px;
+    
+}
+
